@@ -4,5 +4,5 @@ If you contribute to the list, please add yourself in alphabetic order by your f
 * [Alexandar Podobnik](https://github.com/alexandarp)
 * [Amy Rich](https://github.com/amyrrich)
 * [Igor Galić](https://github.com/igalic)
-* [VM Brasseur](https://github.com/vmbrasseur)
 * [Michal Biesiada](https://github.com/mbiesiad)
+* [VM Brasseur](https://github.com/vmbrasseur)
