@@ -1,12 +1,13 @@
-# DevOps Learning Resources
+# DevOps - Źródła nauki
 
-Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com/2015/11/05/how-did-you-learn-ops-devops/), this is a list of resources which a person can use to acquire the knowledge necessary to become a kickass Ops/DevOps/Infrastructure professional.
+Odświeżone przez [tę rozmowę i post na blogu](http://anonymoushash.vmbrasseur.com/2015/11/05/how-did-you-learn-ops-devops/). Jest to lista zasobów, z których osoba zainteresowana tematyką może skorzystać, aby zdobyć wiedzę niezbędną do tego, by zostać profesjonalistą w Ops/DevOps/Infrastructure.
 
-* [Schools & Learning Programs](https://github.com/vmbrasseur/devops-learning-resources#schools--learning-programs)
-* [Books & Blogs](https://github.com/vmbrasseur/devops-learning-resources#books--blogs)
-* [Conferences & Meetups](https://github.com/vmbrasseur/devops-learning-resources#conferences--meetups)
+* [Szkoły & program nauki](https://github.com/mbiesiad/devops-zrodla-nauki#szkoły--program-nauki)
+* [Książki & blogi](https://github.com/mbiesiad/devops-zrodla-nauki#książki--blogi)
+* [Podcasty](https://github.com/mbiesiad/devops-zrodla-nauki#podcasty)
+* [Konferencje & meetupy](https://github.com/mbiesiad/devops-zrodla-nauki#konferencje--meetupy)
 
-## Schools & Learning Programs
+## Szkoły & program nauki
 
 * [AWS Training and Certification](https://aws.amazon.com/training/)
 * [BCS Professional Certification](http://certifications.bcs.org/)
@@ -16,16 +17,16 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [Ops School Curriculum](http://www.opsschool.org) ([GitHub](https://github.com/opsschool/curriculum))
 * [O'Reilly: Programming for Sysadmins Learning Path ](http://shop.oreilly.com/category/learning-path/programming-for-sysadmins.do)
 
-## Books & Blogs
+## Książki & blogi
 
-* [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912): By [Jez Humble](https://twitter.com/jezhumble) and [David Farley](http://www.davefarley.net/)
-* [DevOps Weekly](http://www.devopsweekly.com/): Weekly newsletter of all-things-DevOps
-* [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) by [Jennifer Davis](https://twitter.com/sigje) and [Katherine Daniels](https://twitter.com/beerops)
-* [Scalar Software](http://scalarsoftware.com/) DevOps Blog
+* [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912): od [Jez Humble](https://twitter.com/jezhumble) oraz [David Farley](http://www.davefarley.net/)
+* [DevOps Weekly](http://www.devopsweekly.com/): Cotygodniowy biuletyn wszystkich kwestii związanych z DevOps
+* [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) od [Jennifer Davis](https://twitter.com/sigje) oraz [Katherine Daniels](https://twitter.com/beerops)
+* [Scalar Software](http://scalarsoftware.com/) Blog DevOps
 * [Server Density DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/)
-* [Sysadmin Casts](https://sysadmincasts.com/): Bite-sized sysadmin screencasts (released weekly)
+* [Sysadmin Casts](https://sysadmincasts.com/): (wydawany co tydzień)
 
-## Podcasts
+## Podcasty
 
 * [Arrested DevOps](https://www.arresteddevops.com/)
 * [DevOps Cafe](http://devopscafe.org/)
@@ -33,7 +34,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [The Food Fight Show](http://foodfightshow.org/)
 * [Ops All The Things](https://www.opsallthethings.com/)
 
-## Conferences & Meetups
+## Konferencje & meetupy
 
 * [AWS re:Invent](https://reinvent.awsevents.com/)
 * [Cascadia IT](http://casitconf.org/)
