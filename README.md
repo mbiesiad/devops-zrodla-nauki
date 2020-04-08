@@ -2,6 +2,8 @@
 
 Odświeżone przez [tę rozmowę i post na blogu](http://anonymoushash.vmbrasseur.com/2015/11/05/how-did-you-learn-ops-devops/). Jest to lista zasobów, z których osoba zainteresowana tematyką może skorzystać, aby zdobyć wiedzę niezbędną do tego, by zostać profesjonalistą w Ops/DevOps/Infrastructure.
 
+# Zawartość:
+
 * [Szkoły & program nauki](https://github.com/mbiesiad/devops-zrodla-nauki#szkoły--program-nauki)
 * [Książki & blogi](https://github.com/mbiesiad/devops-zrodla-nauki#książki--blogi)
 * [Podcasty](https://github.com/mbiesiad/devops-zrodla-nauki#podcasty)
@@ -11,9 +13,9 @@ Odświeżone przez [tę rozmowę i post na blogu](http://anonymoushash.vmbrasseu
 
 * [AWS Training and Certification](https://aws.amazon.com/training/)
 * [BCS Professional Certification](http://certifications.bcs.org/)
-* [CAT Braindump](http://braindump.cat.pdx.edu/) at [Portland State University](https://www.pdx.edu/) in Portland, Oregon, USA
-* [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/) at [Oregon State University Open Source Lab (OSU OSL)](http://osuosl.org/) in Corvalis, Oregon, USA
-* [Master Programme in Network and System Administration](https://www.hioa.no/eng/Studies/TKD/Master/Network-and-System-Administration) at [Oslo and Akershus University College of Applied Sciences](https://www.hioa.no/eng) in Oslo, Norway
+* [CAT Braindump](http://braindump.cat.pdx.edu/) na [Portland State University](https://www.pdx.edu/) w Portland, Oregon, USA
+* [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/) na [Oregon State University Open Source Lab (OSU OSL)](http://osuosl.org/) w Corvalis, Oregon, USA
+* [Master Programme in Network and System Administration](https://www.hioa.no/eng/Studies/TKD/Master/Network-and-System-Administration) na [Oslo and Akershus University College of Applied Sciences](https://www.hioa.no/eng) w Oslo, Norwegia
 * [Ops School Curriculum](http://www.opsschool.org) ([GitHub](https://github.com/opsschool/curriculum))
 * [O'Reilly: Programming for Sysadmins Learning Path ](http://shop.oreilly.com/category/learning-path/programming-for-sysadmins.do)
 
